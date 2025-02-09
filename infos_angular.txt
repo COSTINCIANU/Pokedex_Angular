@@ -1,0 +1,26 @@
+--skip-tests = je veux pas de fichier de test
+
+ng generate directive pokemon-border --skip-tests
+
+ng generate pipe reverse
+
+ng generate service pokemon --skip-tests
+
+
+
+Deployer en ligne l'avance du projet
+
+1) on coupe le serveur
+Ctrl + C
+
+2) on builde le porjet
+ng build
+
+
+Output location: D:\ANGULAR\CoursAngularAdrar\pokedex\dist\pokedex
+
+firebase deploy
+
+et ce ok
+Project Console: https://console.firebase.google.com/project/workshop-pokedex-728af/overview
+Hosting URL: https://workshop-pokedex-728af.web.app
