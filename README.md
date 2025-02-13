@@ -1,5 +1,7 @@
 # Pokedex
 
+URL: https://workshop-pokedex-728af.web.app
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.5.
 
 ## Development server
